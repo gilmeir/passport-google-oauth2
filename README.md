@@ -1,3 +1,8 @@
+This is a fork from [passport-google-oauth2](https://github.com/jaredhanson/passport-google-oauth2)
+with this [patch](https://github.com/MarshallOfSound/passport-google-oauth2/tree/patch-1) applied to it
+for fixing usage of deprecated google+ apis, see [here](https://github.com/jaredhanson/passport-google-oauth2/pull/51).
+This is a temporary solution until the PR is merged into passport-google-oauth2.
+
 # passport-google-oauth20
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Google](http://www.google.com/)
